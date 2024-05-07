@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+kdejJ+X/h5uhYHXntbMgHhhfuollIIpODi7jAH0RhZF9zCYSwiWv7BgmBjP9ox85+RqyYy1Up74yhGvK11CIA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
