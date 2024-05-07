@@ -1,0 +1,12 @@
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\bin\Debug\net7.0\Domain.dll
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\Domain.dll
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\ref\Domain.dll
