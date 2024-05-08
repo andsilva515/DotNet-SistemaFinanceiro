@@ -10,3 +10,7 @@ C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceir
 C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\bin\Debug\net7.0\Entities.dll
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\bin\Debug\net7.0\Entities.pdb
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\Domain\obj\Debug\net7.0\Domain.csproj.Up2Date
