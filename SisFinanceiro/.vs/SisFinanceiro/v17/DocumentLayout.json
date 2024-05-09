@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0DED8D9F-362D-4F55-9FC1-A20CBD45413F}|Infra\\Infra.csproj|c:\\projetos\\dev-projects\\sistemafinanceiro\\dotnet-sistemafinanceiro\\sisfinanceiro\\infra\\repositorio\\repositoriodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DED8D9F-362D-4F55-9FC1-A20CBD45413F}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DED8D9F-362D-4F55-9FC1-A20CBD45413F}|Infra\\Infra.csproj|c:\\projetos\\dev-projects\\sistemafinanceiro\\dotnet-sistemafinanceiro\\sisfinanceiro\\infra\\repositorio\\repositoriousuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DED8D9F-362D-4F55-9FC1-A20CBD45413F}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriousuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DED8D9F-362D-4F55-9FC1-A20CBD45413F}|Infra\\Infra.csproj|c:\\projetos\\dev-projects\\sistemafinanceiro\\dotnet-sistemafinanceiro\\sisfinanceiro\\infra\\repositorio\\repositoriosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DED8D9F-362D-4F55-9FC1-A20CBD45413F}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DED8D9F-362D-4F55-9FC1-A20CBD45413F}|Infra\\Infra.csproj|c:\\projetos\\dev-projects\\sistemafinanceiro\\dotnet-sistemafinanceiro\\sisfinanceiro\\infra\\repositorio\\repositoriocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DED8D9F-362D-4F55-9FC1-A20CBD45413F}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,58 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RepositorioUsuarioSistemaFinanceiro.cs",
-              "DocumentMoniker": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "ToolTip": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "RelativeToolTip": "Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:23:47.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RepositorioSistemaFinanceiro.cs",
-              "DocumentMoniker": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
-              "ToolTip": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
-              "RelativeToolTip": "Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:23:45.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RepositorioDespesa.cs",
-              "DocumentMoniker": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\Infra\\Repositorio\\RepositorioDespesa.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioDespesa.cs",
-              "ToolTip": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\Infra\\Repositorio\\RepositorioDespesa.cs",
-              "RelativeToolTip": "Infra\\Repositorio\\RepositorioDespesa.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:23:42.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RepositorioCategoria.cs",
-              "DocumentMoniker": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\Infra\\Repositorio\\RepositorioCategoria.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioCategoria.cs",
-              "ToolTip": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\Infra\\Repositorio\\RepositorioCategoria.cs",
-              "RelativeToolTip": "Infra\\Repositorio\\RepositorioCategoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:23:34.183Z",
-              "EditorCaption": ""
             }
           ]
         }
