@@ -90,3 +90,4 @@ C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceir
 C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\WebApi\bin\Debug\net7.0\Entities.pdb
 C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\WebApi\bin\Debug\net7.0\Infra.pdb
 C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\WebApi\bin\Debug\net7.0\Domain.pdb
+C:\Projetos\Dev-Projects\SistemaFinanceiro\DotNet-SistemaFinanceiro\SisFinanceiro\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

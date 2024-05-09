@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OteUFN0+hiTzSdJ2JgmX3bUPNdm9qxB5KkuzBVcuvAyZ7EXisTZc3v7WwJL/gQE4LGSPesXtablFCxON8oYsUA==",
+  "dgSpecHash": "+ecVrUYiXB5J+Cis2JFcsNohUy53yC6eTrxHtqKV1260n9f80iUZLWB6eCDsSMA6MDKS2/KgLXuFyTiOCgcmDA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ander\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.18\\microsoft.aspnetcore.authentication.jwtbearer.7.0.18.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.18\\microsoft.aspnetcore.cryptography.internal.7.0.18.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.18\\microsoft.aspnetcore.cryptography.keyderivation.7.0.18.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.18\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.18.nupkg.sha512",
