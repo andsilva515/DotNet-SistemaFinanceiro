@@ -1,6 +1,7 @@
 ﻿using Domain.Interfaces.InterfaceServicos;
 using Domain.Interfaces.IUsuarioSistemaFinanceiro;
 using Entities.Entidades;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +9,7 @@ namespace WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class UsuarioSistemaFinanceiroController : ControllerBase
     {
         private readonly InterfaceUsuarioSistemaFinanceiro _InterfaceUsuarioSistemaFinanceiro;
@@ -44,6 +46,23 @@ namespace WebApi.Controllers
             {
                 return Task.FromResult(false);
             }
+            return Task.FromResult(true);
+        }
+
+        [HttpDelete]
+        [Produces("application/json")]
+        public async Task<object> DeleteUsuarioSistemaFinanceiro(int id)
+        {
+            try
+            {
+                var usuarioSistemaFinanceiro = await _InterfaceUsuarioSistemaFinanceiro.GetEntityById(id);
+                await _InterfaceUsuarioSistemaFinanceiro.Delete(usuarioSistemaFinanceiro);
+            }
+            catch (Exception)
+            {
+                return Task.FromResult(false);
+            }
+
             return Task.FromResult(true);
         }
 
