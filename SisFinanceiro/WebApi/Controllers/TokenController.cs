@@ -35,8 +35,9 @@ namespace WebApi.Controllers
             var result = await _signInManager.PasswordSignInAsync(Input.Email, Input.Password, false, lockoutOnFailure: false);
             if (result.Succeeded)
             {
-                var token = new TokenJWTBuilder().AddSecurityKey(JwtSecurityKey.Create("Secret_Key-12345678"))
-                    .AddSubject("Canal Dev Net Core")
+                var token = new TokenJWTBuilder()
+                    .AddSecurityKey(JwtSecurityKey.Create("Secret_Key-12345678"))
+                    .AddSubject("Sistema de Controle Financeiro")
                     .AddIssuer("Teste.Security.Bearer")
                     .AddAudience("Teste.Security.Bearer")
                     .AddClaim("UsuarioAPINumero", "1")
