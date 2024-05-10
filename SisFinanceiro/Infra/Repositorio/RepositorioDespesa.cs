@@ -19,7 +19,7 @@ namespace Infra.Repositorio
         {
             _OptionsBuilder = new DbContextOptions<ContextBase>();
         }
-        public async Task<IList<Despesa>> ListarDespesaUsuario(string emailUsuario)
+        public async Task<IList<Despesa>> ListarDespesasUsuario(string emailUsuario)
         {
             using( var banco = new ContextBase(_OptionsBuilder))
             {
@@ -32,7 +32,7 @@ namespace Infra.Repositorio
                      select d).AsNoTracking().ToListAsync();
             }
         }
-        public async Task<IList<Despesa>> ListarDespesaUsuarioNaoPagasMesesAnterior(string emailUsuario)
+        public async Task<IList<Despesa>> ListarDespesasUsuarioNaoPagasMesesAnterior(string emailUsuario)
         {
             using(var banco = new ContextBase(_OptionsBuilder))
             {
