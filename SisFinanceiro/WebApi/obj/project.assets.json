@@ -4175,7 +4175,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ander\\.nuget\\packages\\": {},
+    "C:\\Users\\Anderson\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -4184,14 +4184,14 @@
       "projectUniqueName": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
       "projectPath": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
       "outputPath": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4201,8 +4201,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://packagesource": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
@@ -4281,19 +4280,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
+            "version": "[7.0.19, 7.0.19]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.17, 7.0.17]"
+            "version": "[7.0.19, 7.0.19]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
+            "version": "[7.0.19, 7.0.19]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
+            "version": "[7.0.19, 7.0.19]"
           }
         ],
         "frameworkReferences": {
@@ -4304,7 +4303,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

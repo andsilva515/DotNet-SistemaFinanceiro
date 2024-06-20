@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9fKOvFSki75uSUmpvOqzz1ZN8X0AnxgHFytSK16mCWWErthc62b8M2Qc1zMRsZs/F4jI3QmkggBQ19g2XSJFzA==",
+  "dgSpecHash": "peNarDeUDqQ=",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Dev-Projects\\SistemaFinanceiro\\DotNet-SistemaFinanceiro\\SisFinanceiro\\Helpers\\Helpers.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ander\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\ander\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\ander\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+    "C:\\Users\\Anderson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Anderson\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Anderson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512"
   ],
   "logs": []
 }
